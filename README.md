@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rashmikant
 - 👀 I’m interested in data science, analytics, statistics. 
 - 🌱 I’m currently learning data science, web development (HTML,CSS,JAVA Script)  
-- 💞️ I’m looking to collaborate on data science projects 
+- 💞️ I’m looking to collaborate on data science/analytics projects. 
 - 📫 One can reach me rashmikantshukla@gmail.com
 
 <!---
